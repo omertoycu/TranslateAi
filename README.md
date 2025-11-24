@@ -2,7 +2,7 @@
 
 TranslateAi, **FastAPI**, **LangChain** ve **Groq (Llama 3.3)** altyapısını kullanarak metinleri istediğiniz dile çeviren yüksek performanslı bir API projesidir.
 
-https://github.com/user-attachments/assets/c528574c-4e8c-4f18-8f85-780072719273
+https://github.com/omertoycu/TranslateAi/issues/1#issue-3658684477
 
 
 ## 🚀 Özellikler
