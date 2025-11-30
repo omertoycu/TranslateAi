@@ -6,6 +6,6 @@ https://github.com/user-attachments/assets/e5cf1a43-aeae-4630-b550-cfc90a7d799c
 
 ## 🚀 Özellikler
 
-- **Hızlı Çeviri:** Groq LPU'ları üzerinde çalışan Llama 3.3 modeli ile ışık hızında yanıtlar.
+- **Hızlı Çeviri:** Groq LPU'ları üzerinde çalışan Llama 3.3 modeli ile hızlıca yanıtlar.
 - **Modern API:** FastAPI tabanlı, dokümantasyonu (Swagger/Redoc) hazır altyapı.
 - **LangChain Entegrasyonu:** LangServe ile ölçeklenebilir zincir (chain) yapısı.
